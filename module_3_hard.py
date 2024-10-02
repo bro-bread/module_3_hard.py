@@ -71,26 +71,4 @@ def tele2(data_structure):
 
 
 tele2(data_structure)
-#    if isinstance(p, int) == True:
-#            print(fof, p)
-#            print(g)
-#            glob.append(g)
 
-
-  #      if len(ellem) == 1:isinstance
-    #        dlin_ellem = 0
-   #     else:
-    #        if len(ellem) >= 2:
-    #            dlin_ellem = len(ellem) - 1
-
-# if isinstance(list_1, dict) == True:     if isinstance(ellem, int) == True:
-
-
-#if isinstance(list_1, dict) == True:   если в картедже бибд.
-
-
-#result = tele2(data_structure)
-#print(result)
-#
-#ggg = data_structure[4]
-#print(len(ggg[0]))
